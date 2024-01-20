@@ -9,6 +9,7 @@ Song Management: Add, delete, and search for songs within a playlist.
 Playback History: Track and display recently played and last played songs.
 Sorting: Sort playlists alphabetically for easier navigation.
 File Integration: Future capability for adding songs from a file.
+
 How to Use
 Creating Playlists:
 
